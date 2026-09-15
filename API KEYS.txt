@@ -1,4 +1,3 @@
 API KEYS:
-
-em_live_pa7FMfXEgfDdWV3ptzasYGSQ5sVy7d5QTv8Ei3
+inserisci la tua api keys
 
