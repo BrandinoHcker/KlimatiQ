@@ -1,0 +1,1 @@
+Crea una header con vari link, home, about us e visualizza grafica, aggiungi un paio di animazioni

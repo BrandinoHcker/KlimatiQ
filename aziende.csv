@@ -1,0 +1,101 @@
+azienda,paese,settore,consumo_kwh
+TechCorp,US,tecnologia,3522.24985
+GreenRetail,IT,commercio,456.417038
+EuroMfg,DE,manifattura,15031.429411
+Toyota,JP,automotive,30901.620053
+Samsung,KR,tecnologia,37578.573527
+Enel,IT,energia,3613.301549
+Lufthansa,DE,trasporti,24050.287058
+Amazon,US,commercio,35222.4985
+Fiat,IT,automotive,7987.298161
+Siemens,DE,manifattura,9018.857647
+Apple,US,tecnologia,20429.04913
+Google,US,tecnologia,31700.24865
+Microsoft,US,tecnologia,26769.09886
+Meta,US,tecnologia,28882.44877
+Tesla,US,automotive,23951.29898
+BMW,DE,automotive,16233.943764
+Volkswagen,DE,automotive,23449.029881
+Bosch,DE,manifattura,12025.143529
+BASF,DE,chimica,31265.373175
+Bayer,DE,chimica,18638.97247
+TotalEnergies,FR,energia,58.429898
+Renault,FR,automotive,27.99766
+LVMH,FR,commercio,10.346961
+Carrefour,FR,commercio,13.390185
+Airbus,FR,trasporti,45.039713
+Shell,NL,energia,14634.24343
+Philips,NL,tecnologia,3459.002993
+Unilever,NL,commercio,4656.350182
+Nestle,CH,alimentare,15.351867
+Novartis,CH,chimica,11.218672
+Roche,CH,chimica,12.990041
+ABB,CH,manifattura,9.447303
+Eni,IT,energia,15974.596322
+Leonardo,IT,manifattura,10649.730881
+Pirelli,IT,manifattura,5324.865441
+Ferrero,IT,alimentare,3727.405808
+Barilla,IT,alimentare,2890.641239
+Luxottica,IT,manifattura,3993.64908
+Telecom Italia,IT,tecnologia,7606.950629
+Poste Italiane,IT,servizi,3347.058277
+Sony,JP,tecnologia,53219.456758
+Honda,JP,automotive,42918.91674
+Panasonic,JP,tecnologia,33476.755057
+Mitsubishi,JP,manifattura,61803.240106
+Nintendo,JP,tecnologia,12360.648021
+Hyundai,KR,automotive,35229.912682
+LG,KR,tecnologia,32294.086625
+SK Hynix,KR,tecnologia,39927.234373
+POSCO,KR,manifattura,56367.860291
+Tata,IN,manifattura,170051.753084
+Infosys,IN,tecnologia,51845.046672
+Wipro,IN,tecnologia,40646.516591
+Reliance,IN,energia,219822.997889
+Mahindra,IN,automotive,76730.669074
+BHP,AU,minerario,155231.034509
+Rio Tinto,AU,minerario,147469.482783
+Qantas,AU,trasporti,82789.885071
+Petrobras,BR,energia,718.434226
+Embraer,BR,trasporti,338.086695
+Vale,BR,minerario,690.260335
+Huawei,CN,tecnologia,92578.633338
+Alibaba,CN,tecnologia,111094.360006
+BYD,CN,automotive,74062.90667
+Lenovo,CN,tecnologia,51579.524288
+Xiaomi,CN,tecnologia,43644.212859
+Baidu,CN,tecnologia,60837.387622
+PetroChina,CN,energia,163996.436199
+Volvo,SE,automotive,14.793449
+IKEA,SE,commercio,10.918975
+Spotify,SE,tecnologia,4.36759
+Ericsson,SE,tecnologia,9.8623
+Nokia,FI,tecnologia,36.513363
+Equinor,NO,energia,15.227325
+Maersk,DK,trasporti,1095.400891
+Lego,DK,manifattura,189.869488
+Carlsberg,DK,alimentare,223.948627
+Inditex,ES,commercio,765.003931
+Iberdrola,ES,energia,2059.625968
+Repsol,ES,energia,2412.704705
+Telefonica,ES,tecnologia,1029.812984
+SAP,DE,tecnologia,9620.114823
+Adidas,DE,commercio,6914.457529
+ThyssenKrupp,DE,manifattura,19841.486822
+Continental,DE,automotive,14730.800823
+Intel,US,tecnologia,28177.9988
+Nvidia,US,tecnologia,20429.04913
+Netflix,US,tecnologia,12680.09946
+Coca Cola,US,alimentare,24655.74895
+PepsiCo,US,alimentare,22542.39904
+Ford,US,automotive,26769.09886
+Boeing,US,trasporti,32404.69862
+Johnson Johnson,US,chimica,19020.14919
+Pfizer,US,chimica,16906.79928
+Procter Gamble,US,commercio,21133.4991
+Walmart,US,commercio,38744.74835
+ExxonMobil,US,energia,45084.79808
+Chevron,US,energia,40858.09826
+JP Morgan,US,servizi,14793.44937
+Goldman Sachs,US,servizi,13032.324445
+UBS,CH,servizi,8.561618
